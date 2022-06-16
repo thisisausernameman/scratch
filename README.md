@@ -1,10 +1,5 @@
 # scratch
-How to play the game 
+Check Out the Scratch Game Here:
 
-Step 1: Download the scratch file
-
-Step 2: Go the the scratch website and click create/ https://scratch.mit.edu/projects/editor/?tutorial=getStarted
-
-Step 3: click File, then click load from computer and click the scratch file.
-
+Brief Explanation of the code: https://docs.google.com/document/d/1DK8FKvY4pKo_Y647i1LLnEwr2wpf-HKs9oJIQCmw-x4/edit
 
